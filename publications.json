@@ -1,52 +1,127 @@
 {
   "publications": [
     {
-      "title": "[Paper Title 1]",
+      "title": "Quantifying the Drivers of the Spatial Distribution of Urban Surfaces in Bangladesh: A Multi-Method Geospatial Analysis",
       "authors": [
-        "Author 1*",
-        "Author 2*",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11†",
-        "Author 12†"
+        "Kazi Jihadur Rashid",
+        "et al."
       ],
-      "venue": "Preprint (2025)",
-      "thumbnail": "images/thumbs/1.jpg",
+      "venue": "Remote Sensing (2025)",
+      "thumbnail": "images/thumbs/urban-surfaces.jpg",
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "#",
-        "code": "#",
-        "project": "#"
+        "pdf": "https://doi.org/10.3390/rs17122050"
       }
     },
     {
-      "title": "[Paper Title 2]",
+      "title": "Wavelet and Remote Sensing-Based Analysis of Urban Heat Island (UHI) of Megacity Dhaka and Its Interaction with Changing Climate",
       "authors": [
-        "Author 1*",
-        "Author 2*",
-        "Author 3",
-        "Author 4",
-        "Author 5",
-        "Author 6",
-        "Author 7",
-        "Author 8",
-        "Author 9",
-        "Author 10",
-        "Author 11"
+        "S. Islam",
+        "Kazi Jihadur Rashid",
+        "et al."
       ],
-      "venue": "Preprint (2025)",
-      "thumbnail": "images/thumbs/2.jpg",
+      "venue": "Theoretical and Applied Climatology (2025)",
+      "thumbnail": "images/thumbs/urban-heat.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://doi.org/10.1007/s00704-024-05294-x"
+      }
+    },
+    {
+      "title": "Impact of Climatic Parameters on Spatiotemporal Variation of Air Pollutants Across Bangladesh",
+      "authors": [
+        "Rajsree Das Tuli",
+        "Kazi Jihadur Rashid",
+        "et al."
+      ],
+      "venue": "Urban Climate (2025)",
+      "thumbnail": "images/thumbs/air-pollution.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://doi.org/10.1016/j.uclim.2024.102263"
+      }
+    },
+    {
+      "title": "GeoAI-based Post-Segmentation Quality Validation of Building Footprints via Spatial Feature Engineering",
+      "authors": [
+        "S. I. A. Chowdhury",
+        "Kazi Jihadur Rashid",
+        "et al."
+      ],
+      "venue": "Under Review",
+      "thumbnail": "images/thumbs/building-footprints.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {}
+    },
+    {
+      "title": "Urban Heat Island Effects on the Thermo-Ecological Environment: A Case from Asian Mega-City Dhaka, Bangladesh",
+      "authors": [
+        "Kazi Jihadur Rashid",
+        "et al."
+      ],
+      "venue": "Sustainability and Urban Quality of Life: Research, Policy and Practice (2025)",
+      "thumbnail": "images/thumbs/thermo-ecological.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {}
+    },
+    {
+      "title": "Urban Tree Canopy Mapping with Remote Sensing",
+      "authors": [
+        "Rajsree Das Tuli",
+        "Kazi Jihadur Rashid",
+        "R. N. Biswas"
+      ],
+      "venue": "Encyclopedia of Smart and Green Cities (In Press)",
+      "thumbnail": "images/thumbs/tree-canopy.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://doi.org/10.1007/978-981-96-1800-2_219-1"
+      }
+    },
+    {
+      "title": "Exploring the Spatiotemporal Patterns and Driving Forces of Urban Growth in Dhaka Megacity from 1990 to 2020",
+      "authors": [
+        "Kazi Jihadur Rashid",
+        "et al."
+      ],
+      "venue": "Urban Commons, Future Smart Cities and Sustainability (2023)",
+      "thumbnail": "images/thumbs/urban-growth.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {}
+    },
+    {
+      "title": "Spatiotemporal Changes of Vegetation and Land Surface Temperature in the Refugee Camps and Its Surrounding Areas of Bangladesh After the Rohingya Influx from Myanmar",
+      "authors": [
+        "Kazi Jihadur Rashid",
+        "et al."
+      ],
+      "venue": "Environment, Development and Sustainability (2021)",
+      "thumbnail": "images/thumbs/vegetation-lst.jpg",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://doi.org/10.1007/s10668-020-00733-x"
+      }
+    },
+    {
+      "title": "Vegetation Greening and Browning Trend and Their Physio-Climatic Drivers in Chittagong Division Using Geospatial Techniques",
+      "authors": [
+        "Kazi Jihadur Rashid",
+        "et al."
+      ],
+      "venue": "Environment, Development and Sustainability (2024)",
+      "thumbnail": "images/thumbs/vegetation-dynamics.jpg",
       "selected": 0,
       "award": "",
       "links": {
-        "pdf": "#"
+        "pdf": "https://doi.org/10.1007/s10668-024-05505-5"
       }
     }
   ]
